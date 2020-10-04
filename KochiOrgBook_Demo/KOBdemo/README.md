@@ -8,3 +8,10 @@ ______________________________________
 
 
 _______________________
+
+
+## Description 
+
+The intention of this demo is to illustrate how a citizen of the city of Kochi is going to use hyperledger Aries .
+
+
