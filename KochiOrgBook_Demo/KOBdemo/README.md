@@ -3,7 +3,9 @@
 ______________________________________
 
 ## Pre-requisite
-
+- install pycharm
+- install modues in interpreter
+- run the code
 - docker 
 
 
