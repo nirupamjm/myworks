@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/33585301/96844912-b7a58180-146d-11eb-9821-3c42e4fb39b7.png)
 
+https://www.pokerlistings.com/poker-hand-ranking
+
+![image](https://user-images.githubusercontent.com/33585301/97085094-d1df8b00-1638-11eb-9a4f-bfd1729cac43.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/33585301/96842549-cd657780-146a-11eb-821c-97fd5d22c935.png)
