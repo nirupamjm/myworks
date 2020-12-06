@@ -1,5 +1,5 @@
 ##### SAST Alert
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/nirupamjm/myworks.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nirupamjm/myworks/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/nirupamjm/myworks.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nirupamjm/myworks/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/nirupamjm/myworks.svg?logo=lgtm&logoWidth=18)]
 
 
 # Pygame Demo on KochiOrgBook
